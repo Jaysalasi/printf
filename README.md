@@ -235,5 +235,8 @@ All the above options work well together.
 
 ### Authors &copy;
 
+- Joshua Joel
+
+Reference from:
 - El Pacific Binagha,
 -  Willy Pascal Willy
